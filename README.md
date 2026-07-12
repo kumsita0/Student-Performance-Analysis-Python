@@ -15,7 +15,7 @@ Student with the highest Math Score
 Student with the highest Science Score
 
 ## Dataset
-# Student Score Dataset
+### Student Score Dataset
 
 students = [
     {"name": "Alice", "math": 85, "science": 90},
