@@ -6,13 +6,12 @@ Objective: Analyze factors affecting student performance using Python-based expl
 Using Python:
 
 Calculate:
-
-Average Math Score
-Average Science Score
+- Average Math Score
+- Average Science Score
+  
 Identify:
-
-Student with the highest Math Score
-Student with the highest Science Score
+- Student with the highest Math Score
+- Student with the highest Science Score
 
 ## Dataset
 ### Student Score Dataset
