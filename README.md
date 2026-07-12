@@ -4,9 +4,13 @@
 
 This project demonstrates basic data analysis using core Python. It stores student records in a list of dictionaries and performs simple calculations to summarize student performance.
 
+---
+
 ## Objective
 
 The objective of this project is to practice Python programming by analyzing student academic performance without using external libraries. The project calculates average subject scores and identifies the highest-performing students.
+
+---
 
 ## Problem statement
 Using Python:
@@ -19,6 +23,8 @@ Identify:
 - Student with the highest Math Score
 - Student with the highest Science Score
 
+---
+
 ## Dataset
 The dataset consists of a small sample of student records created within the Python notebook. Each student record contains:
 
@@ -26,6 +32,7 @@ The dataset consists of a small sample of student records created within the Pyt
 - Math Score
 - Science Score
 
+---
 
 ### Student Score Dataset
 
@@ -40,6 +47,8 @@ students = [
 
 <img width="1805" height="827" alt="image" src="https://github.com/user-attachments/assets/26b1592f-3b95-4ec7-8f9e-b2aed6b7d062" />
 
+---
+
 ## Analysis Performed
 
 The following analyses were performed using Python built-in functions:
@@ -50,6 +59,8 @@ The following analyses were performed using Python built-in functions:
 - Identified the student with the highest Science score.
 - Displayed the analysis results in a readable format.
 
+---
+
 ## Key Findings
 
 - Computed the overall average Math score for all students.
@@ -59,11 +70,23 @@ The following analyses were performed using Python built-in functions:
 
 <img width="487" height="192" alt="image" src="https://github.com/user-attachments/assets/1a5753c2-97ea-4441-b79b-7c96987ac9db" />
 
+---
+
 ## How to Open the Notebook
 
 1. Clone this repository.
 2. Open the notebook using Jupyter Notebook or JupyterLab.
 3. Run all cells to reproduce the analysis.
+
+---
+## Repository Structure
+| File / Folder | Description |
+|---------------|-------------|
+| `student_scores.ipynb` | Main Jupyter Notebook containing Python code to calculate average subject scores and identify highest-performing students |
+| `README.md` | Contains project overview, business problem, dataset description, analysis steps, key findings, and future improvements |
+| `requirements.txt` | Documents project dependencies. This project uses only Python built-in functions and requires no external packages |
+
+---
 
 ## Future Improvements
 
