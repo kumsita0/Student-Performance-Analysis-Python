@@ -1,4 +1,5 @@
-# Student-Score-Insights
+# Student-Performance-Analysis-Python
+
 Objective: Analyze factors affecting student performance using Python-based exploratory data analysis.
 
 ## Problem statement
